@@ -55,6 +55,8 @@ Executes the script if stored in ~/src/scripts and sets the colour of the LED to
 
 Pro Tip: Consider setting a bash alias to the script so you don't have to type the path.
 
+UPDATE: So I've added a new script, this one emulates the "Colour Cycle" of OC Guru II but in a more useful way. The way OC Guru did it was sending a colour change request to the LED controller every once and a while. Haven't timed it so don't know the exact details. But this additional script emulates that but allows the user to set the interval as an argument. The argument is a number in seconds before the next colour will be selected randomly.
+
 #### Troubleshooting
 Didn't work for you, but you passed the compatibility check? Try running it a few more times, sometimes the card's LED controller needs data written to it multiple times before it activates. If this fails, open an issue and I'll give you a hand.
 
