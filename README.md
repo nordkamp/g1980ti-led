@@ -56,4 +56,4 @@ Pro Tip: Consider setting a bash alias to the script so you don't have to type t
 Didn't work for you, but you passed the compatibility check? Try running it a few more times, sometimes the card's LED controller needs data written to it multiple times before it activates. If this fails, open an issue and I'll give you a hand.
 
 ### Information about the Reverse Engineering Process
-This will be uploaded sooner or later once I finish collating it.
+The final product (shell script) looks incredibly simple, but the reverse engineering process (how we got there) is where the real magic and work happened. Documentation on this process will be uploaded sooner or later once I finish collating it.
