@@ -52,5 +52,8 @@ Executes the script if stored in ~/src/scripts and sets the colour of the LED to
 
 Pro Tip: Consider setting a bash alias to the script so you don't have to type the path.
 
+#### Troubleshooting
+Didn't work for you, but you passed the compatibility check? Try running it a few more times, sometimes the card's LED controller needs data written to it multiple times before it activates. If this fails, open an issue and I'll give you a hand.
+
 ### Information about the Reverse Engineering Process
 This will be uploaded sooner or later once I finish collating it.
