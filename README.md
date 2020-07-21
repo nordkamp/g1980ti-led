@@ -1,6 +1,8 @@
 # g1980ti-led
 This repository is intended as both documentation and a source of tools that are a result of my reverse engineering efforts on the LED control system of the Gigabyte G1 980 Ti GAMING 6GB, or model number GV-N98TG1 GAMING-6GD.
 
+
+![](demo.gif)
 ## Introduction
 
 ### Rationale of this Project:
@@ -38,6 +40,7 @@ You can clone the repository or download the script directly, mark it as executa
 | magenta  | Sets colour to a purple/magenta  |
 | cyan     | Sets colour to a light blue/cyan |
 | white    | Sets colour to white             |
+| off      | Turn the LEDs Off                |
 
 Usage:
 ```bash
