@@ -1,5 +1,6 @@
 # g1980ti-led
 This repository is intended as both documentation and a source of tools that are a result of my reverse engineering efforts on the LED control system of the Gigabyte G1 980 Ti GAMING 6GB, or model number GV-N98TG1 GAMING-6GD.
+![](demo.gif)
 
 ## Introduction
 
