@@ -40,6 +40,7 @@ You can clone the repository or download the script directly, mark it as executa
 | magenta  | Sets colour to a purple/magenta  |
 | cyan     | Sets colour to a light blue/cyan |
 | white    | Sets colour to white             |
+| off      | Turn the LEDs Off                |
 
 Usage:
 ```bash
