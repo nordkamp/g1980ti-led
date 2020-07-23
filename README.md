@@ -3,6 +3,10 @@ This repository is intended as both documentation and a source of tools that are
 
 
 ![](demo.gif)
+
+### Information about the Reverse Engineering Process
+The final product (shell script) looks incredibly simple, but the reverse engineering process is where the real magic and work happened. Documentation on this process is available in the docs/ folder of this repository in a LaTeX-compiled PDF format, with more to be added soon.
+
 ## Introduction
 
 ### Rationale of this Project:
@@ -61,6 +65,3 @@ UPDATE: So I've added a new script, this one emulates the "Colour Cycle" of OC G
 
 #### Troubleshooting
 Didn't work for you, but you passed the compatibility check? Try running it a few more times, sometimes the card's LED controller needs data written to it multiple times before it activates. If this fails, open an issue and I'll give you a hand.
-
-### Information about the Reverse Engineering Process
-The final product (shell script) looks incredibly simple, but the reverse engineering process (how we got there) is where the real magic and work happened. Documentation on this process will be uploaded sooner or later once I finish collating it.
